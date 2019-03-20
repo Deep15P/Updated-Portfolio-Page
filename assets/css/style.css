@@ -14,4 +14,9 @@ footer {
 
     background: #050505;
 }
-
+#contactPageForm{
+  /* padding-top: px; */
+  padding-left:40px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
